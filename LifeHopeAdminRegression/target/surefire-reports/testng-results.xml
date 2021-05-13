@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-12T18:04:14 IST" name="Test" finished-at="2021-05-12T18:05:12 IST" duration-ms="58606">
+    <groups>
+    </groups>
+    <test started-at="2021-05-12T18:04:14 IST" name="LifeHope Admin" finished-at="2021-05-12T18:05:12 IST" duration-ms="58606">
+      <class name="Test.LHAdminRegression">
+        <test-method is-config="true" signature="sheetData()[pri:0, instance:Test.LHAdminRegression@8909f18]" started-at="2021-05-12T18:03:35 IST" name="sheetData" finished-at="2021-05-12T18:04:14 IST" duration-ms="39000" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- sheetData -->
+        <test-method is-config="true" signature="openBrowser()[pri:0, instance:Test.LHAdminRegression@8909f18]" started-at="2021-05-12T18:04:14 IST" name="openBrowser" finished-at="2021-05-12T18:04:29 IST" duration-ms="15518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method signature="Login()[pri:0, instance:Test.LHAdminRegression@8909f18]" started-at="2021-05-12T18:04:29 IST" name="Login" finished-at="2021-05-12T18:05:11 IST" duration-ms="42229" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Test.LHAdminRegression@8909f18]" started-at="2021-05-12T18:05:11 IST" name="closeBrowser" finished-at="2021-05-12T18:05:12 IST" duration-ms="800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- Test.LHAdminRegression -->
+    </test> <!-- LifeHope Admin -->
+  </suite> <!-- Test -->
+</testng-results>
